@@ -1,0 +1,8 @@
+[package]
+name = "rustqt-helloworld"
+version = "0.1.0"
+authors = ["Micah Lee <micah@micahflee.com>"]
+
+[dependencies]
+qt_core = "0.2.3"
+qt_widgets = "0.2.2"
